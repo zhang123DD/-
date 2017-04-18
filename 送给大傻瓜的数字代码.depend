@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492432810 source:f:\it工作站\送给大傻瓜的数字代码\main.c
+	<stdio.h>
+	<stdlib.h>
+
